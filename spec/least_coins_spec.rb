@@ -39,5 +39,4 @@ def least_coins(cents)
 
  puts coin_types
 coin_types
-
 end
